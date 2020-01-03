@@ -1,7 +1,7 @@
 /**
 Description:
-Reveal box is a custom web component.  It hides contains of a box with another box.  When a user
-hovers over the box the top box will move out of the way so that the user can see the hidden box contain.
+Reveal box is a custom web component.  It hides contents of a box with another box.  When a user
+hovers over the box the top box will move out of the way so that the user can see the hidden box contents.
 The top box will move out of the way by the effects you assign to it.  Currently there are 9 effects and 
 more will be added later.
 
