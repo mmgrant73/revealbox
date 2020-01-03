@@ -1,5 +1,5 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
-# Acronym:
+# RevealBox:
 
 ### What is it?
 Reveal box is a custom web component (inline-block element).  It hides contents of a box with another box.  When a user
