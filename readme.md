@@ -7,7 +7,7 @@ hovers over the box the top box will move out of the way so that the user can se
 The top box will move out of the way by the effects you assign to it.  Currently there are nine effects and 
 more will be added later.
 
-![Alt text](https://github.com/mmgrant73/acronym/blob/master/revealbox.png?raw=true "Image-RevealBox")
+![Alt text](https://github.com/mmgrant73/revealbox/blob/master/revealbox.png?raw=true "Image-RevealBox")
 
 [Click here for Demo](https://mmgrant73.github.io/revealbox/revealbox.html) 
 
